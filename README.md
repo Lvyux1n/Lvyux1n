@@ -1,10 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=12,14,18,20,24&text=Lvyux1n's%20Writing%20Studio&fontSize=38&fontColor=ffffff&animation=twinkling&desc=SEO%20Articles%20%7C%20Product%20Stories%20%7C%20Google%20Pages&descSize=16&descAlignY=62)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&customColorList=12,14,18,20,24,27&text=Lvyux1n's%20Writing%20Studio&fontSize=42&fontColor=ffffff&animation=twinkling&desc=SEO%20Articles%20%7C%20Product%20Stories%20%7C%20Google%20Pages&descSize=17&descAlignY=64)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=25&duration=2600&pause=900&color=FF7EB6&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Lvyux1n+%F0%9F%8C%B8;I+write+pretty+pages+that+help+products+get+noticed;Soft+style%2C+clear+words%2C+Google-friendly+content)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=900&size=27&duration=2300&pause=700&color=FF7EB6&center=true&vCenter=true&repeat=true&width=820&lines=Hi%2C+I'm+Lvyux1n+%F0%9F%8C%B8;I+write+pretty+pages+that+help+products+get+noticed;Soft+style%2C+clear+words%2C+Google-friendly+content;Turning+keywords+into+warm+little+stories)
 
 <img src="https://komarev.com/ghpvc/?username=Lvyux1n&style=for-the-badge&label=visitors&color=ff9ec7" alt="profile views" />
+
+![Sparkle Line](https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,14,18,20,24)
 
 </div>
 
@@ -23,6 +25,8 @@ This profile is becoming a soft, colorful shelf for my writing work: SEO article
 ![Google Pages](https://img.shields.io/badge/Google%20Pages-bde0fe?style=for-the-badge&logo=google&logoColor=white)
 ![Content Marketing](https://img.shields.io/badge/Content%20Marketing-cdb4db?style=for-the-badge)
 
+![Now Writing](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=20&duration=2200&pause=650&color=C77DFF&center=true&vCenter=true&width=760&lines=Writing+for+search%2C+but+keeping+the+voice+human;Making+product+pages+feel+clear%2C+sweet%2C+and+useful;Collecting+articles+that+can+live+beautifully+on+Google)
+
 </div>
 
 ---
@@ -39,6 +43,12 @@ This profile is becoming a soft, colorful shelf for my writing work: SEO article
 ---
 
 ## My writing flow
+
+<div align="center">
+
+![Flow](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=22&duration=1800&pause=350&color=FF85A1&center=true&vCenter=true&width=720&lines=keyword+idea+%E2%86%92+search+intent;search+intent+%E2%86%92+article+outline;article+outline+%E2%86%92+product+story;product+story+%E2%86%92+Google-friendly+page;publish+%E2%86%92+review+%E2%86%92+improve)
+
+</div>
 
 ```text
 keyword idea
@@ -67,6 +77,10 @@ keyword idea
 <img src="https://github-readme-stats.vercel.app/api?username=Lvyux1n&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff5fa&title_color=ff7eb6&icon_color=b8c0ff&text_color=5c5c66" width="49%" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lvyux1n&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff5fa&title_color=ff7eb6&text_color=5c5c66" width="41%" alt="Top languages" />
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lvyux1n&bg_color=fff5fa&color=ff7eb6&line=cdb4db&point=b8c0ff&area=true&hide_border=true)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Lvyux1n&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4)
+
 </div>
 
 ---
@@ -88,6 +102,8 @@ keyword idea
 Pretty words can still do practical work.
 ```
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,18,20,24)
+![Goodbye](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=22&duration=2400&pause=800&color=FF7EB6&center=true&vCenter=true&width=760&lines=Thanks+for+stopping+by;More+articles+and+Google+pages+are+coming+soon;Have+a+soft+and+sparkly+day)
+
+![Footer](https://capsule-render.vercel.app/api?type=venom&height=150&section=footer&color=gradient&customColorList=12,14,18,20,24,27&animation=twinkling)
 
 </div>
