@@ -6,6 +6,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=Lvyux1n&style=for-the-badge&label=visitors&color=ff9ec7" alt="profile views" />
 
+![Ribbon](https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=12,14,18,20,24)
+
 </div>
 
 ---
@@ -18,6 +20,9 @@
 ![Product Copy](https://img.shields.io/badge/Product%20Copy-ffc2d1?style=for-the-badge)
 ![Google Pages](https://img.shields.io/badge/Google%20Pages-bde0fe?style=for-the-badge&logo=google&logoColor=white)
 ![Content Marketing](https://img.shields.io/badge/Content%20Marketing-cdb4db?style=for-the-badge)
+
+![Tone](https://img.shields.io/badge/Tone-Soft%20%2B%20Clear-ffafcc?style=for-the-badge)
+![Style](https://img.shields.io/badge/Style-Cute%20%2B%20Useful-b8c0ff?style=for-the-badge)
 
 </div>
 
@@ -40,6 +45,20 @@
 
 <div align="center">
 
+### Mini Profile Card
+
+| Voice | Focus | Platform |
+| --- | --- | --- |
+| warm | SEO articles | Google |
+| clear | product pages | GitHub |
+| playful | writing samples | portfolio |
+
+</div>
+
+---
+
+<div align="center">
+
 ### Article Shelf
 
 | SEO | Product | Google |
@@ -47,6 +66,24 @@
 | keywords | stories | pages |
 | outlines | use cases | portfolio |
 | search intent | clear benefits | samples |
+
+</div>
+
+---
+
+<div align="center">
+
+### Sample Slots
+
+| Slot | Topic | Link |
+| --- | --- | --- |
+| 01 | Product intro | soon |
+| 02 | SEO article | soon |
+| 03 | Google page | soon |
+
+![Slot 01](https://img.shields.io/badge/Slot%2001-Product%20Intro-ff8fab?style=for-the-badge)
+![Slot 02](https://img.shields.io/badge/Slot%2002-SEO%20Article-bde0fe?style=for-the-badge)
+![Slot 03](https://img.shields.io/badge/Slot%2003-Google%20Page-cdb4db?style=for-the-badge)
 
 </div>
 
@@ -76,6 +113,8 @@
 ![Samples](https://img.shields.io/badge/Writing%20Samples-Collecting-cdb4db?style=for-the-badge)
 
 ![Desk](https://readme-typing-svg.demolab.com?font=Nunito&weight=900&size=22&duration=2100&pause=600&color=FF7EB6&center=true&vCenter=true&width=720&lines=Pretty+words;Clear+pages;Useful+content;Soft+style)
+
+![Bottom Ribbon](https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=12,14,18,20,24)
 
 </div>
 
