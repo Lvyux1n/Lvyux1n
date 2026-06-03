@@ -64,6 +64,10 @@
 
 <img src="./assets/process.svg" width="100%" alt="Writing process" />
 
+## Auto Tank Battle
+
+<img src="./assets/tank-battle.svg" width="100%" alt="Automatic tank battle animation" />
+
 ## Links
 
 <div align="center">

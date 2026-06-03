@@ -1,0 +1,110 @@
+<svg width="960" height="320" viewBox="0 0 960 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="960" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFF2F8"/>
+      <stop offset="0.55" stop-color="#F2ECFF"/>
+      <stop offset="1" stop-color="#E9F7FF"/>
+    </linearGradient>
+    <linearGradient id="pinkTank" x1="80" y1="0" x2="270" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8FAB"/>
+      <stop offset="1" stop-color="#FFB3C6"/>
+    </linearGradient>
+    <linearGradient id="blueTank" x1="680" y1="0" x2="870" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7CC7FF"/>
+      <stop offset="1" stop-color="#BDE0FE"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#A78BFA" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+
+  <rect width="960" height="320" rx="30" fill="url(#sky)"/>
+
+  <g opacity="0.48">
+    <circle cx="110" cy="56" r="38" fill="#FFD6E7">
+      <animate attributeName="cy" values="56;68;56" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="840" cy="62" r="44" fill="#DDF1FF">
+      <animate attributeName="cx" values="840;812;840" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g opacity="0.8">
+    <rect x="0" y="244" width="960" height="76" fill="#FFF8E7"/>
+    <path d="M0 244C98 228 154 260 254 244C374 224 452 265 574 244C706 221 798 266 960 238V320H0V244Z" fill="#FDE2E4"/>
+    <path d="M0 276H960" stroke="#F7B7C9" stroke-width="2" stroke-dasharray="8 14"/>
+  </g>
+
+  <g opacity="0.9">
+    <rect x="408" y="206" width="36" height="38" rx="6" fill="#DDBDFB"/>
+    <rect x="452" y="186" width="36" height="58" rx="6" fill="#FFD6A5"/>
+    <rect x="496" y="216" width="36" height="28" rx="6" fill="#A2D2FF"/>
+  </g>
+
+  <g font-family="Verdana, Arial, sans-serif" text-anchor="middle">
+    <text x="480" y="44" font-size="28" font-weight="800" fill="#7B5EA7">Auto Tank Battle</text>
+    <text x="480" y="70" font-size="14" fill="#7A6872">no clicks needed | the round keeps running by itself</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="88 202;138 202;138 202;88 202" keyTimes="0;0.32;0.68;1" dur="8s" repeatCount="indefinite"/>
+      <rect x="0" y="36" width="168" height="34" rx="17" fill="#5B4A5A"/>
+      <circle cx="34" cy="70" r="13" fill="#38323D"/>
+      <circle cx="84" cy="70" r="13" fill="#38323D"/>
+      <circle cx="134" cy="70" r="13" fill="#38323D"/>
+      <rect x="28" y="8" width="92" height="44" rx="18" fill="url(#pinkTank)"/>
+      <rect x="108" y="25" width="74" height="12" rx="6" fill="#FF8FAB"/>
+      <circle cx="74" cy="30" r="18" fill="#FFE0EC"/>
+      <text x="74" y="35" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="13" font-weight="800" fill="#B63D73">P1</text>
+    </g>
+
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="656 126;604 126;604 126;656 126" keyTimes="0;0.32;0.68;1" dur="8s" repeatCount="indefinite"/>
+      <rect x="0" y="36" width="168" height="34" rx="17" fill="#46546B"/>
+      <circle cx="34" cy="70" r="13" fill="#2B3445"/>
+      <circle cx="84" cy="70" r="13" fill="#2B3445"/>
+      <circle cx="134" cy="70" r="13" fill="#2B3445"/>
+      <rect x="48" y="8" width="92" height="44" rx="18" fill="url(#blueTank)"/>
+      <rect x="-14" y="25" width="74" height="12" rx="6" fill="#7CC7FF"/>
+      <circle cx="94" cy="30" r="18" fill="#EAF6FF"/>
+      <text x="94" y="35" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="13" font-weight="800" fill="#3576AA">P2</text>
+    </g>
+  </g>
+
+  <circle cy="234" r="7" fill="#FF5D8F">
+    <animate attributeName="cx" values="250;590;590;250" keyTimes="0;0.42;0.52;1" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.08;0.42;0.5;1" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cy="158" r="7" fill="#4EA8DE">
+    <animate attributeName="cx" values="600;274;274;600" keyTimes="0;0.42;0.52;1" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.12;0.44;0.52;1" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <g transform="translate(590 234)">
+    <circle r="8" fill="#FFD166">
+      <animate attributeName="r" values="0;0;34;4;0" keyTimes="0;0.42;0.48;0.58;1" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.42;0.48;0.58;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="4" fill="#FF8FAB">
+      <animate attributeName="r" values="0;0;22;2;0" keyTimes="0;0.44;0.5;0.58;1" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.44;0.5;0.58;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(274 158)">
+    <circle r="8" fill="#BDE0FE">
+      <animate attributeName="r" values="0;0;32;5;0" keyTimes="0;0.46;0.52;0.62;1" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.46;0.52;0.62;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="4" fill="#CDB4DB">
+      <animate attributeName="r" values="0;0;20;2;0" keyTimes="0;0.48;0.54;0.62;1" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.48;0.54;0.62;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g font-family="Verdana, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">
+    <rect x="370" y="94" width="220" height="30" rx="15" fill="white" opacity="0.76"/>
+    <text x="480" y="114" fill="#6B6170">AUTO MODE · ROUND LOOP</text>
+  </g>
+</svg>
