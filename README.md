@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&customColorList=12,14,18,20,24,27&text=Lvyux1n's%20Writing%20Studio&fontSize=42&fontColor=ffffff&animation=twinkling&desc=SEO%20Articles%20%7C%20Product%20Stories%20%7C%20Google%20Pages&descSize=17&descAlignY=64)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=12,14,18,20,24&text=Lvyux1n's%20Writing%20Studio&fontSize=38&fontColor=ffffff&animation=twinkling&desc=SEO%20Articles%20%7C%20Product%20Stories%20%7C%20Google%20Pages&descSize=15&descAlignY=58&fontAlignY=34)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=900&size=27&duration=2300&pause=700&color=FF7EB6&center=true&vCenter=true&repeat=true&width=820&lines=Hi%2C+I'm+Lvyux1n+%F0%9F%8C%B8;I+write+pretty+pages+that+help+products+get+noticed;Soft+style%2C+clear+words%2C+Google-friendly+content;Turning+keywords+into+warm+little+stories)
 
@@ -26,6 +26,23 @@ This profile is becoming a soft, colorful shelf for my writing work: SEO article
 ![Content Marketing](https://img.shields.io/badge/Content%20Marketing-cdb4db?style=for-the-badge)
 
 ![Now Writing](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=20&duration=2200&pause=650&color=C77DFF&center=true&vCenter=true&width=760&lines=Writing+for+search%2C+but+keeping+the+voice+human;Making+product+pages+feel+clear%2C+sweet%2C+and+useful;Collecting+articles+that+can+live+beautifully+on+Google)
+
+</div>
+
+---
+
+## Language sparkle
+
+Words are her strongest tool. She has a good ear for tone, clear expression, and multilingual writing.
+
+<div align="center">
+
+![English](https://img.shields.io/badge/English-Fluent%20%7C%20IELTS%207.0-ff8fab?style=for-the-badge)
+![Japanese](https://img.shields.io/badge/Japanese-Preparing%20for%20N2-ffc2d1?style=for-the-badge)
+![Chinese](https://img.shields.io/badge/Chinese-Native-bde0fe?style=for-the-badge)
+![Sichuanese](https://img.shields.io/badge/Sichuanese-Daily%20Voice-cdb4db?style=for-the-badge)
+
+![Language Typing](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=21&duration=2100&pause=650&color=FF7EB6&center=true&vCenter=true&width=760&lines=English+writing+with+a+natural+voice;IELTS+7.0+and+still+improving;Preparing+for+Japanese+N2;Chinese+and+Sichuanese+make+the+voice+warmer)
 
 </div>
 
@@ -74,12 +91,14 @@ keyword idea
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lvyux1n&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff5fa&title_color=ff7eb6&icon_color=b8c0ff&text_color=5c5c66" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lvyux1n&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff5fa&title_color=ff7eb6&text_color=5c5c66" width="41%" alt="Top languages" />
+![Desk](https://readme-typing-svg.demolab.com?font=Nunito&weight=900&size=24&duration=1900&pause=500&color=C77DFF&center=true&vCenter=true&width=760&lines=SEO+articles+in+progress;Product+stories+in+progress;Google+pages+coming+soon;A+soft+portfolio+is+growing)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lvyux1n&bg_color=fff5fa&color=ff7eb6&line=cdb4db&point=b8c0ff&area=true&hide_border=true)
+![Writing](https://img.shields.io/badge/Writing%20Desk-SEO%20%2B%20Product%20Copy-ff8fab?style=for-the-badge)
+![Portfolio](https://img.shields.io/badge/Portfolio-Google%20Pages-bde0fe?style=for-the-badge&logo=google&logoColor=white)
+![Voice](https://img.shields.io/badge/Voice-Warm%20%2B%20Clear-cdb4db?style=for-the-badge)
+![Style](https://img.shields.io/badge/Style-Soft%20%2B%20Sparkly-ffc2d1?style=for-the-badge)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Lvyux1n&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4)
+![Ribbon](https://capsule-render.vercel.app/api?type=rect&height=6&color=gradient&customColorList=12,14,18,20,24)
 
 </div>
 
@@ -104,6 +123,6 @@ Pretty words can still do practical work.
 
 ![Goodbye](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=22&duration=2400&pause=800&color=FF7EB6&center=true&vCenter=true&width=760&lines=Thanks+for+stopping+by;More+articles+and+Google+pages+are+coming+soon;Have+a+soft+and+sparkly+day)
 
-![Footer](https://capsule-render.vercel.app/api?type=venom&height=150&section=footer&color=gradient&customColorList=12,14,18,20,24,27&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=gradient&customColorList=12,14,18,20,24&animation=twinkling)
 
 </div>
