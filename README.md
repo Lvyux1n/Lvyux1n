@@ -1,23 +1,18 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Happy birthday banner for Lyu yuxin" />
+  <img src="./assets/banner.svg" width="100%" alt="Lyu yuxin writing studio banner" />
 </p>
 
 <p align="center">
   <a href="https://sites.google.com/">Google Page</a> ·
   <a href="https://github.com/Lvyux1n">GitHub</a> ·
-  Birthday Page · SEO Writing · Product Stories
+  SEO Writing · Product Stories
 </p>
 
 ---
 
-## Birthday Mode
+## Studio
 
-<img src="./assets/content-board.svg" width="100%" alt="Birthday wishes and writing focus board" />
-
-<p align="center">
-  <strong>June 9 is Lyu yuxin's birthday.</strong><br/>
-  May this new year be gentle, clear, lucky, and full of stories worth saving.
-</p>
+<img src="./assets/content-board.svg" width="100%" alt="Writing focus board" />
 
 ## Language
 
@@ -38,40 +33,40 @@
   </table>
 </div>
 
-## Birthday Shelf
+## Article Queue
 
 <div align="center">
   <table>
     <tr>
       <th align="center">Status</th>
-      <th align="center">Birthday Note</th>
-      <th align="center">Mood</th>
+      <th align="center">Piece</th>
+      <th align="center">Use</th>
     </tr>
     <tr>
-      <td align="center">ready</td>
-      <td align="center">A warm wish for tomorrow</td>
-      <td align="center">bright</td>
+      <td align="center">drafting</td>
+      <td align="center">Product introduction</td>
+      <td align="center">promotion page</td>
     </tr>
     <tr>
-      <td align="center">saved</td>
-      <td align="center">Cake, flowers, and photos</td>
-      <td align="center">sweet</td>
+      <td align="center">planning</td>
+      <td align="center">SEO article</td>
+      <td align="center">Google search</td>
     </tr>
     <tr>
-      <td align="center">continuing</td>
-      <td align="center">SEO articles and product stories</td>
-      <td align="center">clear</td>
+      <td align="center">collecting</td>
+      <td align="center">Writing samples</td>
+      <td align="center">portfolio</td>
     </tr>
   </table>
 </div>
 
-## Birthday Flow
+## Process
 
-<img src="./assets/process.svg" width="100%" alt="Birthday celebration flow" />
+<img src="./assets/process.svg" width="100%" alt="Writing process" />
 
-## Countdown
+## Auto Tank Battle
 
-<img src="./assets/tank-battle.svg" width="100%" alt="Animated birthday countdown with cake and balloons" />
+<img src="./assets/tank-battle.svg" width="100%" alt="Automatic tank battle animation" />
 
 ## Links
 
@@ -89,5 +84,5 @@
 </div>
 
 <p align="center">
-  <sub>Happy birthday, Lyu yuxin. Soft voice. Clear structure. Useful pages.</sub>
+  <sub>Soft voice. Clear structure. Useful pages.</sub>
 </p>

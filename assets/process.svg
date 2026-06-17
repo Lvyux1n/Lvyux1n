@@ -1,46 +1,45 @@
-<svg width="960" height="180" viewBox="0 0 960 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="960" height="170" viewBox="0 0 960 170" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="path" x1="130" y1="90" x2="830" y2="90" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFB703"/>
-      <stop offset="0.3" stop-color="#FF8FAB"/>
-      <stop offset="0.64" stop-color="#A2D2FF"/>
-      <stop offset="1" stop-color="#8FD694"/>
+    <linearGradient id="path" x1="130" y1="84" x2="830" y2="84" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8FAB"/>
+      <stop offset="0.5" stop-color="#CDB4DB"/>
+      <stop offset="1" stop-color="#A2D2FF"/>
     </linearGradient>
   </defs>
 
-  <rect width="960" height="180" rx="26" fill="#F8FFF6"/>
-  <path d="M144 90C235 48 300 130 390 90C482 47 552 128 646 90C724 56 778 68 830 90" stroke="url(#path)" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <rect width="960" height="170" rx="26" fill="#FBF7FF"/>
+  <path d="M144 86C235 48 300 125 390 86C482 46 552 124 646 86C724 53 778 67 830 86" stroke="url(#path)" stroke-width="5" stroke-linecap="round" fill="none"/>
 
-  <g font-family="Verdana, Arial, sans-serif" font-weight="800" font-size="15">
+  <g font-family="Verdana, Arial, sans-serif" font-weight="800" font-size="16">
     <g>
-      <circle cx="144" cy="90" r="25" fill="#FFF1B8"/>
-      <text x="144" y="96" text-anchor="middle" fill="#9B6A19">01</text>
-      <text x="144" y="138" text-anchor="middle" fill="#6B6170">Wish</text>
+      <circle cx="144" cy="86" r="24" fill="#FFE0EC"/>
+      <text x="144" y="92" text-anchor="middle" fill="#B63D73">01</text>
+      <text x="144" y="132" text-anchor="middle" fill="#6B6170">Keyword</text>
     </g>
     <g>
-      <circle cx="322" cy="90" r="25" fill="#FFE0EC"/>
-      <text x="322" y="96" text-anchor="middle" fill="#B63D73">02</text>
-      <text x="322" y="138" text-anchor="middle" fill="#6B6170">Cake</text>
+      <circle cx="322" cy="86" r="24" fill="#EAD8FF"/>
+      <text x="322" y="92" text-anchor="middle" fill="#7650BC">02</text>
+      <text x="322" y="132" text-anchor="middle" fill="#6B6170">Outline</text>
     </g>
     <g>
-      <circle cx="500" cy="90" r="25" fill="#EAD8FF"/>
-      <text x="500" y="96" text-anchor="middle" fill="#7650BC">03</text>
-      <text x="500" y="138" text-anchor="middle" fill="#6B6170">Photo</text>
+      <circle cx="500" cy="86" r="24" fill="#FFF0C7"/>
+      <text x="500" y="92" text-anchor="middle" fill="#9B6A19">03</text>
+      <text x="500" y="132" text-anchor="middle" fill="#6B6170">Story</text>
     </g>
     <g>
-      <circle cx="678" cy="90" r="25" fill="#DDF1FF"/>
-      <text x="678" y="96" text-anchor="middle" fill="#3576AA">04</text>
-      <text x="678" y="138" text-anchor="middle" fill="#6B6170">Story</text>
+      <circle cx="678" cy="86" r="24" fill="#DDF1FF"/>
+      <text x="678" y="92" text-anchor="middle" fill="#3576AA">04</text>
+      <text x="678" y="132" text-anchor="middle" fill="#6B6170">Page</text>
     </g>
     <g>
-      <circle cx="830" cy="90" r="25" fill="#E7F8E7"/>
-      <text x="830" y="96" text-anchor="middle" fill="#4E8B55">05</text>
-      <text x="830" y="138" text-anchor="middle" fill="#6B6170">Smile</text>
+      <circle cx="830" cy="86" r="24" fill="#E7F8E7"/>
+      <text x="830" y="92" text-anchor="middle" fill="#4E8B55">05</text>
+      <text x="830" y="132" text-anchor="middle" fill="#6B6170">Improve</text>
     </g>
   </g>
 
-  <circle cx="144" cy="90" r="7" fill="#FF8FAB">
+  <circle cx="144" cy="86" r="7" fill="#FF8FAB">
     <animate attributeName="cx" values="144;322;500;678;830;144" dur="7s" repeatCount="indefinite"/>
-    <animate attributeName="fill" values="#FFB703;#FF8FAB;#9B5DE5;#00BBF9;#8FD694;#FFB703" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#FF8FAB;#CDB4DB;#FFC857;#A2D2FF;#8FD694;#FF8FAB" dur="7s" repeatCount="indefinite"/>
   </circle>
 </svg>
