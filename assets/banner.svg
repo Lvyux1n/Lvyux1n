@@ -39,14 +39,12 @@
   </text>
 
   <g font-family="Verdana, Arial, sans-serif" font-size="13" font-weight="700">
-    <rect x="276" y="172" width="102" height="28" rx="14" fill="#FFE0EC"/>
-    <text x="327" y="191" text-anchor="middle" fill="#B63D73">IELTS 7.0</text>
-    <rect x="392" y="172" width="92" height="28" rx="14" fill="#EAD8FF"/>
-    <text x="438" y="191" text-anchor="middle" fill="#7650BC">N2 Prep</text>
-    <rect x="498" y="172" width="92" height="28" rx="14" fill="#DDF1FF"/>
-    <text x="544" y="191" text-anchor="middle" fill="#3576AA">Chinese</text>
-    <rect x="604" y="172" width="108" height="28" rx="14" fill="#FFF0C7"/>
-    <text x="658" y="191" text-anchor="middle" fill="#9B6A19">Sichuanese</text>
+    <rect x="320" y="172" width="92" height="28" rx="14" fill="#EAD8FF"/>
+    <text x="366" y="191" text-anchor="middle" fill="#7650BC">N2 Prep</text>
+    <rect x="426" y="172" width="92" height="28" rx="14" fill="#DDF1FF"/>
+    <text x="472" y="191" text-anchor="middle" fill="#3576AA">Chinese</text>
+    <rect x="532" y="172" width="108" height="28" rx="14" fill="#FFF0C7"/>
+    <text x="586" y="191" text-anchor="middle" fill="#9B6A19">Sichuanese</text>
   </g>
 
   <g fill="#FF8FAB" opacity="0.78">

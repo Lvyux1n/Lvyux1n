@@ -14,25 +14,6 @@
 
 <img src="./assets/content-board.svg" width="100%" alt="Writing focus board" />
 
-## Language
-
-<div align="center">
-  <table>
-    <tr>
-      <th align="center">English</th>
-      <th align="center">Japanese</th>
-      <th align="center">Chinese</th>
-      <th align="center">Sichuanese</th>
-    </tr>
-    <tr>
-      <td align="center">IELTS 7.0</td>
-      <td align="center">preparing for N2</td>
-      <td align="center">native</td>
-      <td align="center">daily voice</td>
-    </tr>
-  </table>
-</div>
-
 ## Article Queue
 
 <div align="center">
